@@ -6,3 +6,6 @@
     - [Leaf Classification](https://github.com/uGokalp/BetaLab/tree/master/June/Leaf_Classification)
 3. [July](https://github.com/uGokalp/BetaLab/tree/master/July)
     - [Alice in Wonderland Text Generation](https://github.com/uGokalp/BetaLab/tree/master/July/Alice)
+
+
+[@uGokalp](https://ugokalp.github.io/)
