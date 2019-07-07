@@ -5,6 +5,7 @@
     - [Medium](https://medium.com/@gokalpumur/new-york-city-taxi-dataset-eda-6308f17ae16c)
 2. [June](https://github.com/uGokalp/BetaLab/tree/master/June)
     - [Leaf Classification](https://github.com/uGokalp/BetaLab/tree/master/June/Leaf_Classification)
+    - [Medium](https://medium.com/@gokalpumur/leaf-classification-d6612c76d9f3)
 3. [July](https://github.com/uGokalp/BetaLab/tree/master/July)
     - [Alice in Wonderland Text Generation](https://github.com/uGokalp/BetaLab/tree/master/July/Alice)
 
